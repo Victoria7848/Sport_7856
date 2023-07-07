@@ -1,28 +1,29 @@
-header{
-    background-color: #DDB4B4;
+body {
+    font-family: sans-serif;
 }
 
-header img {
+header{
     width: 889px;
     height: 75px;
+    background-color: #DDB4B4;
     padding: 10px;
 }
 
-h1 {
-    font-size: 50px;
-    text-align: center;
+h1{
+    width: 269px;
+    height: 24px;
+    font-family: 'lnter';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 24px;
 }
 
-h2 {
-    color: royalblue;
-    font-size: 30px;
-}
-
-ol {
+p, ol {
     font-size: 16px;
 }
 
-ul {
+p, ul {
     font-size: 18px;
 }
 
