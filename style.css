@@ -3,10 +3,13 @@ body {
 }
 
 header{
-    width: 889px;
-    height: 75px;
     background-color: #DDB4B4;
     padding: 10px;
+}
+
+header img {
+    width: 889px;
+    height: 75px;
 }
 
 h1{
