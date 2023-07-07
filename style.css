@@ -4,12 +4,12 @@ body {
 
 header{
     background-color: #DDB4B4;
-    padding: 10px;
 }
 
 header img {
     width: 889px;
     height: 75px;
+    padding: 10px;
 }
 
 h1{
@@ -43,7 +43,5 @@ h2 {
 }
 
 footer {
-    width: 889px;
-    height: 106px;
     background-color: #928c8c;
 }
