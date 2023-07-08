@@ -21,11 +21,11 @@ h1{
     line-height: 24px;
 }
 
-p, ol {
+ol {
     font-size: 16px;
 }
 
-p, ul {
+ul {
     font-size: 18px;
 }
 
@@ -42,11 +42,10 @@ h2 {
 }
 
 footer {
-    width: 889px;
-    height: 106px;
     background-color: #928c8c;
 }
 
 footer img{
     width: 889px;
     height: 106px;
+}
