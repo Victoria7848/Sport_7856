@@ -21,6 +21,17 @@ ul {
     font-size: 18px;
 }
 
+.top {
+  height: 30px;
+  background-color: blue;
+  margin-bottom: 10px;
+}
+.bottom {
+  height: 30px;
+  background-color: red;
+  margin-top: 20px;
+}
+
 footer {
     background-color: rgb(221, 153, 153);
     padding: 10px;
