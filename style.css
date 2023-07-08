@@ -3,10 +3,13 @@ body {
 }
 
 header{
-    width: 889px;
-    height: 75px;
     background-color: #DDB4B4;
     padding: 10px;
+}
+
+header img {
+    width: 889px;
+    height: 75px;
 }
 
 h1{
@@ -41,6 +44,9 @@ h2 {
 
 footer {
     background-color: #928c8c;
+}
+
+footer img {
     width: 889px;
     height: 106px;
 }
