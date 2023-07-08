@@ -1,16 +1,22 @@
 body {
     font-family: sans-serif;
-    background-color: #DDB4B4;
 }
 
 header{
+    width: 889px;
+    height: 75px;
     background-color: #DDB4B4;
     padding: 10px;
 }
 
-header img {
-    width: 889px;
-    height: 75px;
+h1{
+    width: 269px;
+    height: 24px;
+    font-family: 'lnter';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 24px;
 }
 
 p, ol {
@@ -21,11 +27,20 @@ p, ul {
     font-size: 18px;
 }
 
-footer {
-    background-color: #928c8c;
+.home_robot{
+    background-color: lightblue
+    border-radius: 30px;
+    padding: 20px;
+    width: 220px;
 }
 
-footer img {
+h2 {
+    border-bottom: 3px dashed navy;
+    width: 210px;
+}
+
+footer {
     width: 889px;
     height: 106px;
+    background-color: #928c8c;
 }
