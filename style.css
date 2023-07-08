@@ -8,7 +8,7 @@ header{
 }
 
 header img{
-    width: 189px;
+    width: 50px;
     height: 75px;
 
 }
@@ -21,11 +21,11 @@ ul {
     font-size: 18px;
 }
 
-    footer {
+footer {
     background-color: #928c8c;
 }
 
 footer p {
-    width: 59px;
+    width: 30px;
     height: 50px;
 }
