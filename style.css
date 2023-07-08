@@ -12,34 +12,12 @@ header img {
     height: 75px;
 }
 
-h1{
-    width: 269px;
-    height: 24px;
-    font-family: 'lnter';
-    font-style: normal;
-    font-weight: 400px;
-    font-size: 20px;
-    line-height: 24px;
-}
-
 p, ol {
     font-size: 16px;
 }
 
 p, ul {
     font-size: 18px;
-}
-
-.home_robot{
-    background-color: lightblue
-    border-radius: 30px;
-    padding: 20px;
-    width: 220px;
-}
-
-h2 {
-    border-bottom: 3px dashed navy;
-    width: 210px;
 }
 
 footer {
