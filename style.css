@@ -11,9 +11,6 @@ header img{
     width: 189px;
     height: 75px;
 
-h1{
-    width: 269px;
-    height: 24px;
 }
 
 ol {
@@ -22,11 +19,6 @@ ol {
 
 ul {
     font-size: 18px;
-}
-
-h2 {
-    border-bottom: 3px dashed navy;
-    width: 210px;
 }
 
     footer {
