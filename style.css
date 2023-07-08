@@ -41,11 +41,12 @@ h2 {
     width: 210px;
 }
 
-footer {
+    footer {
     background-color: #928c8c;
-     padding: 10px;
+    padding: 10px;
 }
 
-footer a{
-    color: while;
+footer p {
+    background-color: white;
+    padding: 5px;
 }
